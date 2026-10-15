@@ -1,4 +1,6 @@
-## Hi there 👋
+### nemo.exe
+<hr>
+hi. i made this account to host my art portfolio and to post silly little coding project if i ever come up with some good ideas. enjoy your stay!
 
 <!--
 **starrfelis/starrfelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
