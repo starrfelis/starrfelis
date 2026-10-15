@@ -1,6 +1,6 @@
 ### nemo.exe
 <hr>
-hi. i made this account to host my art portfolio and to post silly little coding project if i ever come up with some good ideas. enjoy your stay!
+hi. i'm nemo. i am a digital artist and a cs student, however i am not a big fan of cs. i made this account to host my art portfolio and to post silly little coding projects if i ever come up with some good ideas. enjoy your stay!
 
 <!--
 **starrfelis/starrfelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
