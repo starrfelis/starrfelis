@@ -3,11 +3,13 @@
 
 hi. i'm nemo. i am a digital artist and a compsci student, however i am not a big fan of cs. i made this account to host my art portfolio and to post silly little coding projects if i ever come up with some good ideas. enjoy your stay!
 
+<br>
+
 ### my_skills.txt
 <hr>
 
-i have average knowledge of C++ and C# (same thing, right?) and i have dabbled in python. i want to learn more html css and javascript so i can make the neocities website of my dreams. 
-in terms of drawing, i use Clip Studio Paint and Ibis Paint. I draw on a HUION Kamvas 13 Gen 3, and i also draw with my thumb. i have 10 years of experience in drawing, and am still learning :-)
+i have average knowledge of C++ and C# (same thing, right?) and i have dabbled in python. i want to learn more html css and javascript so i can make the neocities website of my dreams. <br>
+in terms of drawing, i use Clip Studio Paint and Ibis Paint. I draw on a HUION Kamvas 13 Gen 3, and i also draw with my thumb. i have 10 years of experience in drawing, and am still learning :-) <br>
 my other skills include ~~larping~~ playing the electric guitar and baking. 
 
 <!--
