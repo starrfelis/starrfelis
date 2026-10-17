@@ -3,7 +3,7 @@
 
 hi. i'm nemo. i am a digital artist and a compsci student, however i am not a big fan of cs. i made this account to host my art portfolio and to post silly little coding projects if i ever come up with some good ideas. enjoy your stay!
 
-<br>
+<hr>
 
 ### my_skills.txt
 <hr>
